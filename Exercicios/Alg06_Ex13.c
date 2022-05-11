@@ -21,7 +21,7 @@ int main()
     printf("Este programa calcula o peso ideal de uma pessoa.\n");
     
     //Entrada
-    printf("Informe a altura (kg): ");
+    printf("Informe a altura (m): ");
     scanf("%f", &alt);
     
     repSexo:
